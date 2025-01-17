@@ -1,6 +1,6 @@
-# SecurePay ![SecurePay Logo](./frontend/src/assets/gitAsset.png)
+# EasyPay ![EasyPay Logo](./frontend/src/assets/gitAsset.png)
 
-**SecurePay** is a full-stack web application built with the **MERN** stack (MongoDB, Express.js, React.js, Node.js). It allows users to securely send money, request money, add balance, and manage payment transactions efficiently. The platform provides an intuitive interface to organize transactions and gain insights into spending habits.
+**EasyPay** is a full-stack web application built with the **MERN** stack (MongoDB, Express.js, React.js, Node.js). It allows users to securely send money, request money, add balance, and manage payment transactions efficiently. The platform provides an intuitive interface to organize transactions and gain insights into spending habits.
 
 ---
 
@@ -74,7 +74,7 @@ npm run dev
 ---
 
 ## 🌐 Live Demo and Documentation  
-- **Live App**: [SecurePay Live](https://easypay-seven.vercel.app)  
+- **Live App**: [EasyPay Live](https://easypay-seven.vercel.app)  
 - **API Docs**: [Postman Documentation](https://documenter.getpostman.com/view/8886902/2s93ebRVyS)  
 
 ---
