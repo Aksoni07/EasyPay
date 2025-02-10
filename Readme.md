@@ -74,8 +74,7 @@ npm run dev
 ---
 
 ## 🌐 Live Demo and Documentation  
-- **Live App**: [EasyPay Live](https://easypay-seven.vercel.app)  
-- **API Docs**: [Postman Documentation](https://documenter.getpostman.com/view/8886902/2s93ebRVyS)  
+- **Live App**: [EasyPay Live](https://drive.google.com/file/d/1jAo6C9wCgPn610k_int0YSRlNUrc-oye/view?usp=drive_link) 
 
 ---
 
